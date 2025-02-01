@@ -1,8 +1,8 @@
 #include <ncurses.h>    // 引入 ncurses 庫，用於控制終端輸出
-#include <chrono>       // 引入 chrono 库，用於時間管理
-#include <queue>        // 引入 queue 库，用於使用雙端佇列
-#include <utility>      // 引入 utility 库，用於使用 pair 類型
-#include <random>       // 引入 random 库，用於生成隨機數
+#include <chrono>       // 引入 chrono 庫，用於時間管理
+#include <queue>        // 引入 queue 庫，用於使用雙端佇列
+#include <utility>      // 引入 utility 庫，用於使用 pair 類型
+#include <random>       // 引入 random 庫，用於生成隨機數
 using namespace std;    // 使用標準命名空間
 using namespace chrono; // 使用 chrono 命名空間
 
